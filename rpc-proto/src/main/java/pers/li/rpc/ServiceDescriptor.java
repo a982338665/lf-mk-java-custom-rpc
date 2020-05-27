@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.Objects;
 
 /**
- * 表示服务
+ * 表示服务描述
  */
 @Data
 @AllArgsConstructor

@@ -1,6 +1,5 @@
 package pers.li.rpc;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
