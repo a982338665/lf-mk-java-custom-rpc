@@ -30,6 +30,10 @@ public class RPCServer {
     private ServiceManager serviceManager;
     private ServiceInvoke serviceInvoke;
 
+    public RPCServer(){
+        this(new RpcServerConfig());
+    }
+
     public RPCServer(RpcServerConfig config) {
         this.config = config;
         //net

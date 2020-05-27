@@ -14,6 +14,7 @@
         <module>rpc-server</module>
         <module>rpc-transport</module>
         <module>rpc-client</module>
+        <module>rpc-example</module>
     </modules>
 
     <!--    所有模块公用的依赖-->
