@@ -67,9 +67,14 @@
     
     D:\git-20191029\customRPC\rpc-proto\src\main\java\pers\li\rpc
     
-
+**8.总结：**
     
-    
+    问题：对网络协议理解较浅
+    不足：
+        安全性
+        服务端处理能力 
+        注册中心
+        集成能力                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
     
     
     
