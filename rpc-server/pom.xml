@@ -11,5 +11,37 @@
 
     <artifactId>rpc-server</artifactId>
 
+    <dependencies>
+        <!--        协议-->
+        <dependency>
+            <groupId>pers.lish</groupId>
+            <artifactId>rpc-proto</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!--        通用-->
+        <dependency>
+            <groupId>pers.lish</groupId>
+            <artifactId>rpc-common</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!--        序列化-->
+        <dependency>
+            <groupId>pers.lish</groupId>
+            <artifactId>rpc-codec</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!--        网络-->
+        <dependency>
+            <groupId>pers.lish</groupId>
+            <artifactId>rpc-transport</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!--        通用-->
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+        </dependency>
+
+    </dependencies>
 
 </project>
